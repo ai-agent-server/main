@@ -1,14 +1,14 @@
 {
-  "name": "ERFAN-MD",
+  "name": "SARWAR-MD",
   "version": "1.4.0",
   "type": "module",
-  "description": "ERFAN WhatsApp Bot",
+  "description": "SARWAR WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node --expose-gc index.js",
     "start:pm2": "pm2 start index.js --node-args='--expose-gc' --deep-monitoring --name ERFAN",
-    "stop": "pm2 stop ERFAN-MD",
-    "restart": "pm2 restart ERFAN-MD"
+    "stop": "pm2 stop SARWAR-MD",
+    "restart": "pm2 restart SARWAR-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
