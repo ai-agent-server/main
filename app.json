@@ -1,8 +1,8 @@
 {
-  "name": "ERFAN-MD",
-  "description": "Javascript WhatsApp bot made by ERFAN-TechXD",
-  "logo": "https://files.catbox.moe/6h8yvz.jpg",
-  "keywords": ["ERFAN-BOT"],
+  "name": "ꨄ 𝙀𝙍𝙁𝘼𝙉-𝙈𝘿 ꨄ",
+  "description": "Javascript WhatsApp bot made by ꨄ 𝙀𝙍𝙁𝘼𝙉-𝙈𝘿 ꨄ",
+  "logo": "https://cdn.phototourl.com/free/2026-08-31-248eadd7-5678-44d6-9985-216e583b1be4.jpg",
+  "keywords": [""],
   "success_url": "/",
   "stack": "container",
   
@@ -12,9 +12,9 @@
       "required": false
     },
     "DB_NAME": {
-      "description": "Database name for MongoDB (default: ERFAN-MD)",
+      "description": "Database name for MongoDB (default: irfanx10)",
       "required": false,
-      "value": "ERFAN-MD"
+      "value": "irfanx"
     }
   },
 
@@ -23,5 +23,5 @@
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
   ],
-  "stack": "heroku-24"
+  "stack": "heroku-26"
 }
